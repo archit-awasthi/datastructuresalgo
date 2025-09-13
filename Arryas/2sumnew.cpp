@@ -67,3 +67,4 @@ public:
     }
     
 };
+FOCUS ON INTUTION MORE THAN THE CODE
