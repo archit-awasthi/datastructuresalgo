@@ -31,3 +31,4 @@ public:
         return ans;
     }
 };
+// try this problem with binary search also!
