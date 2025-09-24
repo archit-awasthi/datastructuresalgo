@@ -17,7 +17,7 @@ public:
         return {}; // if no solution found (though problem says there's always one)
     }
 };
-int main() {
+int main() { 
     Solution s;
     vector<int> nums = {2, 7, 11, 15};
     int target = 9;
