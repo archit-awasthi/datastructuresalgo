@@ -8,10 +8,11 @@ class Solution {
         {
             temp = temp->next;
         }
-        
-        delete temp->next;
+
+        Node* toDelete = temp->next;
         temp->next = NULL;
-        
+        delete temp->next;
+      
         return head;
     }
     
