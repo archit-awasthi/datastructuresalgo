@@ -29,3 +29,4 @@ public:
         return temp;
     }
 };
+//did this on 2 jan 2026 again using better and optimized tortoise and hare method using slow and fast pointers.
