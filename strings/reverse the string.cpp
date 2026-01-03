@@ -13,3 +13,4 @@ public:
 
     }
 };
+//can also be done thorugh stack
